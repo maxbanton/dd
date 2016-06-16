@@ -1,0 +1,19 @@
+{
+  "name": "maxbanton/dd",
+  "description": "Laravel's old school style dump library",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Max Leonov",
+      "email": "hi@maxleonov.pw"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "src/functions.php"
+    ]
+  },
+  "minimum-stability": "stable",
+  "require": {}
+}

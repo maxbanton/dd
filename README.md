@@ -1,2 +1,2 @@
 # dd
-Laravel's style oldschool dd function
+Laravel's style old school dd function
