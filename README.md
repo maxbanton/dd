@@ -1,16 +1,16 @@
-#Dump and die function
+# Dump and die function
 
 Very useful for var_dump - like debuggind. Inspired by old school Laravel function. 
 It is particularly convenient to debug console applications, there is no unnecessary HTML code in your terminal.
 
-#Installation
+# Installation
 Install latest version with command
 
 ```
 composer require maxbanton/dd
 ```
 
-#Usage
+# Usage
 
 ```php
 <?php
