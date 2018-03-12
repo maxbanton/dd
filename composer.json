@@ -15,5 +15,7 @@
     ]
   },
   "minimum-stability": "stable",
-  "require": {}
+  "require": {
+    "symfony/var-dumper": "^3.0"
+  }
 }
