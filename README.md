@@ -5,13 +5,13 @@ It is particularly convenient to debug console applications, there is no unneces
 
 # Requrements
 
-PHP >= 7.1
+PHP >= 7.1. If you still use PHP 5.5, please use [^1.0 package version](https://github.com/maxbanton/dd/tree/legacy)
 
 # Installation
 Install latest version with command
 
 ```
-composer require maxbanton/dd
+composer require maxbanton/dd ^2.0
 ```
 
 # Usage
