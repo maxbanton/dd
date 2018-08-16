@@ -16,6 +16,14 @@
   },
   "minimum-stability": "stable",
   "require": {
+    "php": "^5.5.9|>=7.0",
     "symfony/var-dumper": "^3.0"
+  },
+  "require-dev": {
+    "squizlabs/php_codesniffer": "^3.3"
+  },
+  "scripts": {
+    "check-syntax": "vendor/bin/phpcs --standard=psr2 --ignore=Tests src/",
+    "fix-syntax": "vendor/bin/phpcbf --standard=psr2 src/"
   }
 }
