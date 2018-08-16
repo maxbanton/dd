@@ -5,7 +5,7 @@ It is particularly convenient to debug console applications, there is no unneces
 
 # Requirements
 
-PHP >=5.5.9. If your PHP version > 7.1, please use ^2.0 package version
+PHP >=5.5.9. If your PHP version > 7.1, please use [^2.0 package version](https://github.com/maxbanton/dd/tree/master)
 
 # Installation
 Install latest version with command
