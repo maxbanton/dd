@@ -11,7 +11,7 @@ PHP >= 7.1. If you still use PHP 5.5, please use [^1.0 package version](https://
 Install latest version with command
 
 ```
-composer require maxbanton/dd ^2.0
+composer require --dev maxbanton/dd ^2.0
 ```
 
 # Usage
