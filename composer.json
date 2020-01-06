@@ -1,5 +1,6 @@
 {
   "name": "maxbanton/dd",
+  "homepage": "https://github.com/maxbanton/dd"
   "description": "Laravel's old school style dump library",
   "type": "library",
   "license": "MIT",
